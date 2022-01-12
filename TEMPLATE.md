@@ -27,3 +27,8 @@
   </a>
   [ useful for collapsed elements ]
 </p>
+
+<h3>Folder Structure</h3>
+<p>
+  <a href="https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4">SASS/SCSS Folder Structure</a>
+  </p>
